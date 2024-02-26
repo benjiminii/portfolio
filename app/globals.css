@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @font-face {
+  font-family: "Code Next";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Code Next"), url("/code_next/myFont.woff") format("woff");
+} */
